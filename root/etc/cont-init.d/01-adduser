@@ -28,5 +28,5 @@ User gid:    $(id -g app)
 -------------------------------------
 "
 
-chown abc:abc -R /app
-chown abc:abc -R /config
+chown app:app -R /app
+chown app:app -R /config
