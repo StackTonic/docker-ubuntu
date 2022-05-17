@@ -44,3 +44,5 @@ RUN \
   mkdir -p \
 	/app \
 	/config
+
+COPY root/ /
