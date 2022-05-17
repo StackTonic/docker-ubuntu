@@ -1,3 +1,7 @@
+== v0.0.3 ==
+* elgohr/Github-Release-Action@master is deprecated!
+  switched to elgohr/Github-Release-Action@v4
+
 == v0.0.2 ==
 * Remove accidental copy pate.
 
